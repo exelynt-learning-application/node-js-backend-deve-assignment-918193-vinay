@@ -1,0 +1,17 @@
+{
+  "name": "file-crud-cli",
+  "version": "1.0.0",
+  "description": "A simple Node.js CLI to create, read, update, and delete files.",
+  "main": "file-crud-cli.js",
+  "scripts": {
+    "start": "node file-crud-cli.js",
+    "help": "node file-crud-cli.js --help"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "file-system",
+    "crud"
+  ],
+  "license": "MIT"
+}
